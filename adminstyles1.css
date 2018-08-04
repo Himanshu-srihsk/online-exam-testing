@@ -1,0 +1,46 @@
+body{
+background-color:#244050;
+
+}
+.col-sm-10{
+
+background-color:#ffffff;
+}
+#side-menu a{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#9fb1c2;
+
+}
+#side-menu .active a{
+
+color:#ffffff;
+background-color:#27AAE1;
+font-weight:bold;
+}
+#side-menu a:hover{
+
+color:#ffffff;
+background-color:#1ab394;
+font-weight:bold;
+display:block;
+}
+#footer{
+background-color:#244050;
+font-size:20px;
+text-align:center;
+color:#ffffff;
+margin-top:20px;
+
+}
+.navbar-nav li{
+
+font-weight:bold;
+ 
+font-size:1.2em;
+
+}
+.pull-right{
+float:right;
+
+}
